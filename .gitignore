@@ -1,0 +1,9 @@
+# CLASSファイルは要らない
+*.class
+*.o
+*.pyc
+node_modules/.bin/
+.expo*/
+node_modules/react-native-gesture-handler/ios/
+
+# 特定のフォルダ内無視

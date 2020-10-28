@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "EcoDrugApp",
+    "version": "1.0.0.2",
+    "slug": "test_kawamura",
+    "sdkVersion": "36.0.0",
+    "orientation": "portrait",
+    "ios": {
+      "bundleIdentifier": "com.rasissoft.EcoDrugApp",
+      "buildNumber": "1.0.0"
+    },
+    "android": {
+      "package": "com.rasissoft.EcoDrugApp",
+      "versionCode": 2
+    },
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "description": ""
+  }
+}
